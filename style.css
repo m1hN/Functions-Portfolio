@@ -1,0 +1,60 @@
+html {
+  background: darkslateblue no-repeat fixed center;
+  background-size: cover;
+}
+
+body {
+  background: url(img/a-futuristic-and-powerful-cool-computer-qvft2ybmft6ogtvh-qvft2ybmft6ogtvh.jpg);
+  width: 1000px;
+  padding: 25px 100px;
+  margin: 25px auto;
+  text-align: center;
+  border-radius: 25px;
+}
+
+h1,
+h2,
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+.active {
+  border: 2px solid red;
+}
+
+td:hover {
+  opacity: 0.5;
+  background-color: white;
+}
+
+button {
+  padding: 5px 15px;
+  cursor: pointer;
+}
+
+#dice {
+  width: 200px;
+}
+
+#button-img {
+  color: black;
+}
+
+p {
+  font-size: 20px;
+}
+
+.td-paragraph {
+  margin-top: 30px;
+}
+
+td {
+  border: rgba(255, 255, 255, 0.2) 2px solid;
+  padding: 20px;
+  width: 200px;
+}
+
+img {
+  width: 200px;
+}
